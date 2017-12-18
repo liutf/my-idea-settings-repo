@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Apache Camel" shouldLog="false" />
-  </component>
-</application>
