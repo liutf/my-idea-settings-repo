@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inquirer" />
       <item value="candidate" />
       <item value="identify" />
       <item value="assignment" />
@@ -50,7 +51,6 @@
       <item value="Repository" />
       <item value="Nexus" />
       <item value="boot" />
-      <item value="org" />
     </histories>
   </component>
 </application>
