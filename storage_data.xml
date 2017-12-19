@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="candidate" />
+      <item value="identify" />
+      <item value="assignment" />
+      <item value="safely" />
       <item value="Digest" />
       <item value="Claims" />
       <item value="Algorithm" />
@@ -47,8 +51,6 @@
       <item value="Nexus" />
       <item value="boot" />
       <item value="org" />
-      <item value="projectlombok" />
-      <item value="spring" />
     </histories>
   </component>
 </application>
