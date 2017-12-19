@@ -1,10 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="favor Path Extension" />
-      <item value="Negotiation" />
-      <item value="expiration" />
-      <item value="computed" />
       <item value="Digest" />
       <item value="Claims" />
       <item value="Algorithm" />
@@ -17,6 +13,7 @@
       <item value="logback" />
       <item value="additivity" />
       <item value="raised" />
+      <item value="favor Path Extension" />
       <item value="configure Content Negotiation" />
       <item value="mask" />
       <item value="ordinal" />
@@ -51,6 +48,7 @@
       <item value="boot" />
       <item value="org" />
       <item value="projectlombok" />
+      <item value="spring" />
     </histories>
   </component>
 </application>
