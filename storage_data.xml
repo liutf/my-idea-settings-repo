@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="word" />
       <item value="Inquirer" />
       <item value="provid" />
       <item value="provide" />
@@ -50,7 +51,6 @@
       <item value="Subaru" />
       <item value="starter" />
       <item value="springframework" />
-      <item value="aliyun" />
     </histories>
   </component>
 </application>
