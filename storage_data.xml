@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sharding" />
+      <item value="radix" />
+      <item value="word" />
       <item value="Inquirer" />
+      <item value="provid" />
+      <item value="provide" />
+      <item value="provided" />
       <item value="candidate" />
       <item value="identify" />
       <item value="assignment" />
@@ -45,12 +51,6 @@
       <item value="short Message Id" />
       <item value="Forester" />
       <item value="Subaru" />
-      <item value="starter" />
-      <item value="springframework" />
-      <item value="aliyun" />
-      <item value="Repository" />
-      <item value="Nexus" />
-      <item value="boot" />
     </histories>
   </component>
 </application>
