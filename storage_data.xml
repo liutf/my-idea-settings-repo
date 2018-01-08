@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sharding" />
       <item value="radix" />
       <item value="word" />
       <item value="Inquirer" />
@@ -50,7 +51,6 @@
       <item value="short Message Id" />
       <item value="Forester" />
       <item value="Subaru" />
-      <item value="starter" />
     </histories>
   </component>
 </application>
