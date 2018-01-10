@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tokens" />
+      <item value="respo" />
       <item value="netflix" />
       <item value="sharding" />
       <item value="radix" />
@@ -49,8 +51,6 @@
       <item value="Deprecated" />
       <item value="Accessors" />
       <item value="expand" />
-      <item value="short Message Id" />
-      <item value="Forester" />
     </histories>
   </component>
 </application>
