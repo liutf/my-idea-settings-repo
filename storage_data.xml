@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="occurrences" />
+      <item value="further" />
       <item value="tokens" />
       <item value="respo" />
       <item value="netflix" />
@@ -49,8 +51,6 @@
       <item value="echo" />
       <item value="Goals" />
       <item value="Deprecated" />
-      <item value="Accessors" />
-      <item value="expand" />
     </histories>
   </component>
 </application>
