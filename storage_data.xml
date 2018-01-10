@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="netflix" />
       <item value="sharding" />
       <item value="radix" />
       <item value="word" />
@@ -50,7 +51,6 @@
       <item value="expand" />
       <item value="short Message Id" />
       <item value="Forester" />
-      <item value="Subaru" />
     </histories>
   </component>
 </application>
