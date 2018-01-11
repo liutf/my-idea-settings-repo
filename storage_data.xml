@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="restore" />
+      <item value="anymore" />
+      <item value="imported" />
+      <item value="below" />
       <item value="occurrences" />
       <item value="further" />
       <item value="tokens" />
@@ -47,10 +51,6 @@
       <item value="5672" />
       <item value="durable" />
       <item value="war name" />
-      <item value="war" />
-      <item value="echo" />
-      <item value="Goals" />
-      <item value="Deprecated" />
     </histories>
   </component>
 </application>
