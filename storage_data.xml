@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Working tree contains unstaged changes . Aborting ." />
       <item value="restore" />
       <item value="anymore" />
       <item value="imported" />
@@ -50,7 +51,6 @@
       <item value="Rig 123" />
       <item value="5672" />
       <item value="durable" />
-      <item value="war name" />
     </histories>
   </component>
 </application>
