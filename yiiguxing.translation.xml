@@ -1,0 +1,18 @@
+<application>
+  <component name="AppStorage">
+    <option name="lastSourceLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="AUTO" />
+    <histories>
+      <item value="args" />
+    </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="39e9db600cc2aa5d" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>

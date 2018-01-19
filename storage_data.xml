@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Working tree contains unstaged changes . Aborting ." />
+      <item value="restore" />
+      <item value="anymore" />
+      <item value="imported" />
+      <item value="below" />
+      <item value="occurrences" />
+      <item value="further" />
+      <item value="tokens" />
+      <item value="respo" />
+      <item value="netflix" />
       <item value="sharding" />
       <item value="radix" />
       <item value="word" />
@@ -41,16 +51,6 @@
       <item value="Rig 123" />
       <item value="5672" />
       <item value="durable" />
-      <item value="war name" />
-      <item value="war" />
-      <item value="echo" />
-      <item value="Goals" />
-      <item value="Deprecated" />
-      <item value="Accessors" />
-      <item value="expand" />
-      <item value="short Message Id" />
-      <item value="Forester" />
-      <item value="Subaru" />
     </histories>
   </component>
 </application>
