@@ -3,6 +3,7 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="consumer" />
       <item value="Mime" />
       <item value="recipient" />
       <item value="args" />
