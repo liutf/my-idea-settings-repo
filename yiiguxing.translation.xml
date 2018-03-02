@@ -3,6 +3,10 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="Tariff" />
+      <item value="Entrance" />
+      <item value="Ticket" />
+      <item value="Period" />
       <item value="declarer" />
       <item value="emit" />
       <item value="consumer" />
