@@ -59,4 +59,11 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="iauth" value="$DESC$&#10;* @author liutf&#10;* @date $DATE$" toReformat="false" toShortenFQNames="true">
+    <variable name="DESC" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
