@@ -3,6 +3,8 @@
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="production" />
+      <item value="Demonstrate" />
       <item value="prototype" />
       <item value="Deduct" />
       <item value="SUITE" />
