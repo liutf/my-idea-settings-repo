@@ -66,4 +66,16 @@
       <option name="JAVA_COMMENT" value="true" />
     </context>
   </template>
+  <template name="ps" value="private String $EXPR$;$END$" description="private String member" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi" value="private int $EXPR$;$END$" description="private int member" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
