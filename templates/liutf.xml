@@ -78,4 +78,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="pl" value="private long $EXPR$;$END$" description="def private long member" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="iinb" value="if(StringUtils.isNotBlank($EXPR$)){&#10;    $END$&#10;}" description="StringUtils.isNotBlank" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="iib" value="if(StringUtils.isBlank($EXPR$)){&#10;    $END$&#10;}" description="StringUtils.isBlank" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
