@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="AUTO" />
     <histories>
+      <item value="detach" />
+      <item value="deposit" />
+      <item value="Deposit" />
       <item value="unresolvable" />
       <item value="malformed" />
       <item value="production" />
