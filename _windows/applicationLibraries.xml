@@ -7,13 +7,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="tomcat-lib-7">
-      <CLASSES>
-        <root url="jar://C:/tools/apache-tomcat-7.0.61-windows-x64/apache-tomcat-7.0.61/lib/jsp-api.jar!/" />
-        <root url="jar://C:/tools/apache-tomcat-7.0.61-windows-x64/apache-tomcat-7.0.61/lib/servlet-api.jar!/" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </application>
