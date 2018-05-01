@@ -2,7 +2,17 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.2.0.1" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="80cbc4" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="isMaterialTheme" value="false" />
+    <option name="themedScrollbars" value="false" />
+    <option name="accentScrollbars" value="false" />
     <option name="arrowsStyle" value="Darcula" />
+    <option name="useMaterialFont" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="isDecoratedFolders" value="false" />
   </component>
 </application>
