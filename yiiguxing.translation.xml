@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="test" />
       <item value="detach" />
       <item value="deposit" />
       <item value="Deposit" />
