@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="apache" />
+      <item value="alibaba" />
       <item value="test" />
       <item value="detach" />
       <item value="deposit" />
