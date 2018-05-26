@@ -6,7 +6,6 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="Fooo" type="JAVA" />
       <mapping ext="bo" type="PLAIN_TEXT" />
-      <mapping ext="bash" type="PLAIN_TEXT" />
       <mapping ext="set" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="wvm" type="PLAIN_TEXT" />
