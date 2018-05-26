@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Demonstrate" />
       <item value="apache" />
       <item value="alibaba" />
       <item value="test" />
@@ -10,7 +11,6 @@
       <item value="unresolvable" />
       <item value="malformed" />
       <item value="production" />
-      <item value="Demonstrate" />
       <item value="prototype" />
       <item value="Deduct" />
       <item value="SUITE" />
