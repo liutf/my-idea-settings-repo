@@ -1,9 +1,8 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <option name="INSTRUMENTATION" value="ASSERT" />
-    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
-    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
-    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
-    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="JSON" injector-id="java">
+      <display-name>Vophistory.setRequestBody (com.mobile263.boss.entity)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setRequestBody").withParameters("java.lang.String").definedInClass("com.mobile263.boss.entity.Vophistory"))]]></place>
+    </injection>
   </component>
 </application>
