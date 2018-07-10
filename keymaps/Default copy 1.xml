@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Debug" />
+  <action id="JRebel Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl alt 1" />
   </action>
