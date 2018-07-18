@@ -25,6 +25,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'RuoYiApplication'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug with JRebel 'RuoYiApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
