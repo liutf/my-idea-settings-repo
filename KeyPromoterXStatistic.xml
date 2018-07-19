@@ -17,6 +17,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Collapse Recursively">
+        <Item>
+          <IdeaActionID>CollapseRegionRecursively</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+NumPad -' or 'Ctrl+Alt+减号'</ShortCut>
+          <Description>Collapse Recursively</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
