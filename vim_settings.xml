@@ -1,0 +1,54 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="vim_settings.xml" timestamp="1531271159070">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531216143068">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/net/shopxx/service/impl/BaseServiceImpl.java" timestamp="1531216102522" />
+      <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/service/base/impl/ResourceBusiServiceImpl.java" timestamp="1531214081154">
+        <mark key="[" line="42" column="49" />
+        <mark key="]" line="36" column="46" />
+        <mark key="." line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+      </file>
+      <file name="KeyPromoterXStatistic.xml" timestamp="1531271120194">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">z8K83NfKt9Gw/LHqvMfOqrvGyathztLU2mRkCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">z8K83NfKt9Gw/LHqvMfOqrvGyathztLU2mRkCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
