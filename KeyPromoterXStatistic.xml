@@ -70,7 +70,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>179</Count>
+          <Count>181</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Templates of Current Language">
+        <Item>
+          <IdeaActionID>Cpt.OpenTemplates</IdeaActionID>
+          <ShortCut>'Alt+Shift+P'</ShortCut>
+          <Description>Edit Templates of Current Language</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
