@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>211</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Templates of Current Language">
@@ -86,7 +86,7 @@
           <IdeaActionID>Cpt.OpenTemplates</IdeaActionID>
           <ShortCut>'Alt+Shift+P'</ShortCut>
           <Description>Edit Templates of Current Language</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -94,6 +94,14 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'Alt+3'</ShortCut>
           <Description>Find</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -127,6 +135,14 @@
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'RuoYiApplication'">
