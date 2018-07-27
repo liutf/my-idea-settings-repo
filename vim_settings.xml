@@ -11,10 +11,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/terminal/TerminalController.java" timestamp="1532673443289">
-        <mark key="[" line="741" column="0" />
-        <mark key="]" line="741" column="0" />
-        <mark key="." line="741" column="0" />
+      <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/terminal/TerminalController.java" timestamp="1532675802992">
+        <mark key="'" line="1104" column="0" />
+        <mark key="[" line="843" column="0" />
+        <mark key="]" line="843" column="79" />
+        <mark key="." line="385" column="0" />
       </file>
       <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/service/base/impl/ResourceBusiServiceImpl.java" timestamp="1531214081154">
         <mark key="[" line="42" column="49" />
@@ -25,25 +26,37 @@
       <file name="KeyPromoterXStatistic.xml" timestamp="1531271120194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/channel/ChannelAgentController.java" timestamp="1532673303204">
+      <file name="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/channel/ChannelAgentController.java" timestamp="1532675805634">
         <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="7" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="40" column="7" />
+        <mark key="]" line="40" column="71" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="445" column="8" filename="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/terminal/TerminalController.java" />
+      <jump line="419" column="4" filename="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/terminal/TerminalController.java" />
+      <jump line="0" column="0" filename="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/terminal/TerminalController.java" />
+      <jump line="1104" column="0" filename="C:/wkspace/git/uvbss/crm_new/src/main/java/com/mobile263/boss/action/terminal/TerminalController.java" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCWRhdGEucHV0KCJtZXNzYWdlIiwgInJlZ2lzdGVyIHN1Y2Nlc3M6IisgbWVtYmVyLmdldFVzZXJuYW1lKCkpOwo=</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYoIVRlcm1pbmFsQ2hhbm5lbC5UeXBlLnNlc3Npb24uZXF1YWxzKHRlcm1pbmFsQ2hhbm5lbC5nZXRUeXBlKCkpCgkJCQkJJiYgIVRlcm1pbmFsQ2hhbm5lbC5UeXBlLnNlc3Npb25BRGlyZWN0LmVxdWFscyh0ZXJtaW5hbENoYW5uZWwuZ2V0VHlwZSgpKSl7Cg==</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJaWYoIVRlcm1pbmFsQ2hhbm5lbC5UeXBlLnNlc3Npb24uZXF1YWxzKHRlcm1pbmFsQ2hhbm5lbC5nZXRUeXBlKCkpCgkJCQkJJiYgIVRlcm1pbmFsQ2hhbm5lbC5UeXBlLnNlc3Npb25BRGlyZWN0LmVxdWFscyh0ZXJtaW5hbENoYW5uZWwuZ2V0VHlwZSgpKSl7Cg==</text>
+        <text encoding="base64">CQkJCWRhdGEucHV0KCJtZXNzYWdlIiwgInJlZ2lzdGVyIHN1Y2Nlc3M6IisgbWVtYmVyLmdldFVzZXJuYW1lKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">z8K83NfKt9Gw/LHqvMfOqrvGyathztLU2mRkCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIHJldHVybk9iamVjdChmYWxzZSwgIrSryOu1xLrFwuvOqr/VIiwgQ0hFQ0tfQ0VSVENPREVfRU5EKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQkJaWYoIVRlcm1pbmFsQ2hhbm5lbC5UeXBlLnNlc3Npb24uZXF1YWxzKHRlcm1pbmFsQ2hhbm5lbC5nZXRUeXBlKCkpCgkJCQkJJiYgIVRlcm1pbmFsQ2hhbm5lbC5UeXBlLnNlc3Npb25BRGlyZWN0LmVxdWFscyh0ZXJtaW5hbENoYW5uZWwuZ2V0VHlwZSgpKSl7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">z8K83NfKt9Gw/LHqvMfOqrvGyathztLU2mRkCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
@@ -66,6 +79,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
