@@ -86,7 +86,7 @@
           <IdeaActionID>Cpt.OpenTemplates</IdeaActionID>
           <ShortCut>'Alt+Shift+P'</ShortCut>
           <Description>Edit Templates of Current Language</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
