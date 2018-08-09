@@ -273,6 +273,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'IotConsumer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'IotConsumer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RuoYiApplication'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
