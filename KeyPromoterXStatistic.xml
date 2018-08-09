@@ -49,6 +49,14 @@
           <Count>38</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'IoTest.pubMsg'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug with JRebel 'IoTest.pubMsg'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'JunitTest.asddasadx'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -62,7 +70,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'RuoYiApplication'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat'">
@@ -271,6 +279,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'IoTest.consumer'</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IoTest.pubMsg'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'IoTest.pubMsg'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IotConsumer'">
