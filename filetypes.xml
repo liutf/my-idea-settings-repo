@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Foo" type="CLASS" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Fooo" type="JAVA" />
       <mapping pattern="rule" type="PLAIN_TEXT" />
       <mapping ext="bo" type="PLAIN_TEXT" />
