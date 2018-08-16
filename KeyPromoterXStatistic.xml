@@ -94,7 +94,7 @@
           <IdeaActionID>Cpt.OpenTemplates</IdeaActionID>
           <ShortCut>'Alt+Shift+P'</ShortCut>
           <Description>Edit Templates of Current Language</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -126,6 +126,14 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'Alt+0'</ShortCut>
           <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Settings / Upgrade Templates">
+        <Item>
+          <IdeaActionID>Cpt.OpenSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+P'</ShortCut>
+          <Description>Open Settings / Upgrade Templates</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -262,7 +270,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show History">
