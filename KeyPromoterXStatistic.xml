@@ -89,6 +89,14 @@
           <Count>267</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'⌘Y'</ShortCut>
+          <Description>Delete Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit Templates of Current Language">
         <Item>
           <IdeaActionID>Cpt.OpenTemplates</IdeaActionID>
@@ -119,6 +127,14 @@
           <ShortCut>'Ctrl+Alt+1'</ShortCut>
           <Description>Java Class</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⇧⌘F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Messages">
@@ -335,6 +351,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat'</Description>
           <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
