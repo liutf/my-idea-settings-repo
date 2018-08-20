@@ -278,7 +278,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'IoTest.consumer'">
