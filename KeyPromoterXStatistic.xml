@@ -57,6 +57,14 @@
           <Count>49</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug with JRebel 'DeptServiceImplTest.treeDeptListTest'">
+        <Item>
+          <IdeaActionID>JRebel Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug with JRebel 'DeptServiceImplTest.treeDeptListTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug with JRebel 'IoTest.pubMsg'">
         <Item>
           <IdeaActionID>JRebel Debug</IdeaActionID>
@@ -159,6 +167,14 @@
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -297,6 +313,14 @@
           <Count>39</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'DeptServiceImplTest.treeDeptListTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DeptServiceImplTest.treeDeptListTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'IoTest.consumer'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -334,7 +358,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RuoYiApplication'</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimpleClient4IOT'">
@@ -382,7 +406,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
