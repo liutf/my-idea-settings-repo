@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Settings / Upgrade Templates">
         <Item>
           <IdeaActionID>Cpt.OpenSettings</IdeaActionID>
