@@ -222,7 +222,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'RuoYiApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'SimpleClient4IOT'">
@@ -430,7 +430,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RuoYiApplication'</Description>
-          <Count>76</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimpleClient4IOT'">
