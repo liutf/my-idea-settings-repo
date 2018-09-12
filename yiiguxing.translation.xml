@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compress" />
       <item value="COMMA" />
       <item value="ordinal" />
       <item value="Serious" />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="6" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
