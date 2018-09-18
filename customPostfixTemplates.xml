@@ -26,6 +26,12 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="id" value="xylo.commons-lang" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/commons-lang.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\xylo.commons-lang.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.io" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/io.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\xylo.io.postfixTemplates" />
