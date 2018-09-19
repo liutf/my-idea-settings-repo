@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>561</Count>
+          <Count>564</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Templates of Current Language">
@@ -143,6 +143,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Java Class">
@@ -358,7 +366,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>122</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show in Explorer">
