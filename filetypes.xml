@@ -11,7 +11,6 @@
       <mapping ext="set" type="PLAIN_TEXT" />
       <mapping ext="mine" type="PLAIN_TEXT" />
       <mapping ext="wvm" type="PLAIN_TEXT" />
-      <mapping ext="rst" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="properties-dev" type="Properties" />
       <mapping ext="properties-pro" type="Properties" />

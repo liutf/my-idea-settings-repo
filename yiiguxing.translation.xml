@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="negate" />
+      <item value="placeholder" />
+      <item value="compress" />
+      <item value="COMMA" />
+      <item value="ordinal" />
+      <item value="Serious" />
       <item value="serious" />
       <item value="subtract" />
       <item value="There is a cycle in the hierarchy" />
@@ -41,8 +47,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
