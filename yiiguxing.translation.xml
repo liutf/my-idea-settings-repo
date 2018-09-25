@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Output Buffer" />
       <item value="account" />
       <item value="negate" />
       <item value="placeholder" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="10" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
