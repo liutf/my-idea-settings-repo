@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deposit Key" />
+      <item value="macbook" />
       <item value="Output Buffer" />
       <item value="account" />
       <item value="negate" />
@@ -49,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
