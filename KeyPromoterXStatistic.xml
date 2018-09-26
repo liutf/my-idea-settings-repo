@@ -110,7 +110,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'Tomcat'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -238,7 +238,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Tomcat'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -470,7 +470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat'</Description>
-          <Count>161</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
