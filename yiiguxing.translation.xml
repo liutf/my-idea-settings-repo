@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deprecated" />
       <item value="deposit Key" />
       <item value="macbook" />
       <item value="Output Buffer" />
@@ -51,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
