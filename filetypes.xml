@@ -18,6 +18,7 @@
       <mapping ext="properties_d" type="Properties" />
       <mapping ext="properties-fat" type="Properties" />
       <mapping ext="properties(release)" type="Properties" />
+      <mapping ext="req" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
