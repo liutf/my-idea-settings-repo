@@ -126,7 +126,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>662</Count>
+          <Count>663</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Templates of Current Language">
@@ -390,7 +390,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>165</Count>
+          <Count>166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show in Explorer">
@@ -486,7 +486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat'</Description>
-          <Count>174</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
