@@ -1,8 +1,10 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="13a04cf6-2018-422b-a09c-499470800f38" name="liutf">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="LOGIN" value="liutf" />
-    <option name="AUTH_TYPE" value="BASIC" />
-    <option name="OPEN_IN_BROWSER_GIST" value="false" />
     <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
