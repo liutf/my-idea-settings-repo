@@ -510,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat'</Description>
-          <Count>203</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'vopcrm [clean]'">
