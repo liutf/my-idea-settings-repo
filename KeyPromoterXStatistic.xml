@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DeptServiceImplTest.treeDeptListTest'">
@@ -118,7 +118,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'RuoYiApplication'</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat'">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>742</Count>
+          <Count>744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Templates of Current Language">
