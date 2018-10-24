@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DeptServiceImplTest.treeDeptListTest'">
@@ -398,7 +398,7 @@
           <IdeaActionID>XDebugger.SetValue</IdeaActionID>
           <ShortCut>'F2'</ShortCut>
           <Description>Set Value...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -510,7 +510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat'</Description>
-          <Count>206</Count>
+          <Count>209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'vopcrm [clean]'">
@@ -550,7 +550,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>314</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
