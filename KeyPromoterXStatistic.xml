@@ -118,7 +118,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'RuoYiApplication'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat'">
@@ -191,6 +191,14 @@
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="MyBatis Log Plugin">
+        <Item>
+          <IdeaActionID>TailMyBatisLog</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+O'</ShortCut>
+          <Description>MyBatis Log Plugin</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Settings / Upgrade Templates">
