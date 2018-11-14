@@ -70,7 +70,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -126,7 +126,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'Tomcat'</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>908</Count>
+          <Count>911</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Templates of Current Language">
@@ -286,7 +286,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Tomcat'</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Default Layout">
@@ -454,7 +454,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>209</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show in Explorer">
