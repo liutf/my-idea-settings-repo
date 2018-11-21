@@ -69,7 +69,7 @@
                 <VFile>
                   <option name="enabled" value="true" />
                   <option name="url" value="https://raw.githubusercontent.com/liutf/my-intellij-postfix-templates/master/templates/java/liutf.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\liutf-java.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\liutf.java.postfixTemplates" />
                 </VFile>
               </list>
             </value>
