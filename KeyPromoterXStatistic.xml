@@ -30,7 +30,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -422,7 +422,7 @@
           <IdeaActionID>SaveAll</IdeaActionID>
           <ShortCut>'Ctrl+S'</ShortCut>
           <Description>Save All</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Service">
@@ -566,7 +566,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>90</Count>
+          <Count>95</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
