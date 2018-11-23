@@ -454,7 +454,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>243</Count>
+          <Count>244</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show in Explorer">
@@ -566,7 +566,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
