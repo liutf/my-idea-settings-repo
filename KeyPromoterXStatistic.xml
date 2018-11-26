@@ -78,7 +78,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>209</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DeptServiceImplTest.treeDeptListTest'">
@@ -582,7 +582,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RuoYiApplication'</Description>
-          <Count>197</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimpleClient4IOT'">
