@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
       <item value="Ambiguous" />
       <item value="cycle" />
       <item value="hierarchy" />
@@ -50,12 +51,11 @@
       <item value="Ticket" />
       <item value="declarer" />
       <item value="consumer" />
-      <item value="Mime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="19" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
