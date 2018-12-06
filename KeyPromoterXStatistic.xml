@@ -134,7 +134,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'Tomcat 7.0.61'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat'">
@@ -150,7 +150,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1097</Count>
+          <Count>1099</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Templates of Current Language">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tomcat 7.0.61'</Description>
-          <Count>50</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tomcat'">
