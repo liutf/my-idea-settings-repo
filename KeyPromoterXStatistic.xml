@@ -142,7 +142,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'Tomcat'</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
