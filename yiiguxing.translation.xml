@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Constraint Violation Exception" />
       <item value="Use one of the CacheManager.create() static factory methods to reuse same CacheManager with same name or create one if necessary" />
       <item value="Vendor" />
       <item value="To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
@@ -50,12 +51,11 @@
       <item value="PERIODICITY" />
       <item value="billing Tariff Package" />
       <item value="Entrance" />
-      <item value="Ticket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="22" />
+        <entry key="ENGLISH" value="22" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
