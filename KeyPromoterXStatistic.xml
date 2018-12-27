@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>285</Count>
+          <Count>286</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'DeptServiceImplTest.treeDeptListTest'">
@@ -558,7 +558,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>290</Count>
+          <Count>292</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show in Explorer">
