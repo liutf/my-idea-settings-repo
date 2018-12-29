@@ -126,7 +126,7 @@
           <IdeaActionID>JRebel Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug with JRebel 'RuoYiApplication'</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug with JRebel 'Tomcat 7.0.61'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RuoYiApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SnowflakeIdWor....main()'">
@@ -678,7 +678,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'RuoYiApplication'</Description>
-          <Count>302</Count>
+          <Count>310</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'SimpleClient4IOT'">
