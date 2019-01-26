@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="13a04cf6-2018-422b-a09c-499470800f38" name="liutf">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
