@@ -3,6 +3,72 @@
     <CptPluginSettings SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
+          <entry key="go">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="pg.numbers" />
+                  <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/numbers.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\go\pg.numbers.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="pg.collections" />
+                  <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/collections.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\go\pg.collections.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="pg.zerolog" />
+                  <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/zerolog.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\go\pg.zerolog.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="pg.zap" />
+                  <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/zap.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\go\pg.zap.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="pg.testing" />
+                  <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/testing.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\go\pg.testing.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="pg.misc" />
+                  <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/misc.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\go\pg.misc.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\go\xylo.collections.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\go\xylo.misc.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\go\xylo.numbers.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\go\xylo.testing.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\go\xylo.zap.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\go\xylo.zerolog.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="java">
             <value>
               <list>
@@ -68,7 +134,6 @@
                 </VFile>
                 <VFile>
                   <option name="enabled" value="true" />
-                  <option name="url" value="https://raw.githubusercontent.com/liutf/my-intellij-postfix-templates/master/templates/java/liutf.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\liutf.java.postfixTemplates" />
                 </VFile>
               </list>
