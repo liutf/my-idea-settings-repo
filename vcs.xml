@@ -28,10 +28,22 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://172.16.10.162" />
-          <option name="userName" value="tengfei.liu@net263.com" />
+          <option name="userName" value="liutf" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://172.16.10.162/uvbss/uvcrm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://liutf@172.16.10.162/net263/bss/send-mail.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://liutf@172.16.10.162/net263/bss/bss-process.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://liutf@172.16.10.162/net263/bss/phone-bss.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
