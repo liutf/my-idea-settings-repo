@@ -108,6 +108,11 @@
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/idea-dev.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
                 </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="url" value="https://raw.githubusercontent.com/liutf/my-intellij-postfix-templates/master/templates/java/liutf.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\liutf.postfixTemplates.postfixTemplates" />
+                </VFile>
               </list>
             </value>
           </entry>
