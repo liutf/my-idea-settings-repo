@@ -30,7 +30,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -198,7 +198,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>59</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -206,7 +206,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -238,7 +238,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
