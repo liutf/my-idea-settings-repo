@@ -42,30 +42,6 @@
                   <option name="url" value="https://raw.githubusercontent.com/philipgriggs/go-postfix-templates/master/misc.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\go\pg.misc.postfixTemplates" />
                 </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\go\xylo.collections.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\go\xylo.misc.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\go\xylo.numbers.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\go\xylo.testing.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\go\xylo.zap.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\go\xylo.zerolog.postfixTemplates" />
-                </VFile>
               </list>
             </value>
           </entry>
@@ -131,10 +107,6 @@
                   <option name="id" value="xylo.idea-dev" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/idea-dev.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
-                </VFile>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\java\liutf.java.postfixTemplates" />
                 </VFile>
               </list>
             </value>
