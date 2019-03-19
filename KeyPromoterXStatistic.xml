@@ -206,7 +206,7 @@
           <IdeaActionID>Vcs.ShowTabbedFileHistory</IdeaActionID>
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
-          <Count>68</Count>
+          <Count>69</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>go to definition</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
     </option>
