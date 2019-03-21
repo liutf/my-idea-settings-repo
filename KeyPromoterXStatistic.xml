@@ -214,7 +214,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>70</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
