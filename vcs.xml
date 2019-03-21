@@ -46,6 +46,10 @@
           <option name="url" value="http://liutf@172.16.10.162/net263/bss/phone-bss.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/liutf/maven-multi-module-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\LAU\wkspace" />
