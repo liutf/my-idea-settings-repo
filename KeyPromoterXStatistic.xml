@@ -126,7 +126,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Shift+Enter'</ShortCut>
           <Description>Properties</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recompile '...erviceImplTest.java'">
@@ -134,6 +134,14 @@
           <IdeaActionID>Compile</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F9'</ShortCut>
           <Description>Recompile '...erviceImplTest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Reload Page</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
