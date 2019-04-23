@@ -1,0 +1,72 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="selection" />
+      <item value="feature" />
+      <item value="Future Task" />
+      <item value="Executors" />
+      <item value="expand" />
+      <item value="template" />
+      <item value="subscribe" />
+      <item value="maven" />
+      <item value="platform" />
+      <item value="stack" />
+      <item value="Storing" />
+      <item value="uncategorized" />
+      <item value="violation" />
+      <item value="detach" />
+      <item value="Constraint Violation Exception" />
+      <item value="Use one of the CacheManager.create() static factory methods to reuse same CacheManager with same name or create one if necessary" />
+      <item value="Vendor" />
+      <item value="To prevent a memory leak, the JDBC Driver has been forcibly unregistered." />
+      <item value="Ambiguous" />
+      <item value="cycle" />
+      <item value="hierarchy" />
+      <item value="subtract" />
+      <item value="multiply" />
+      <item value="Deprecated" />
+      <item value="deposit Key" />
+      <item value="macbook" />
+      <item value="Output Buffer" />
+      <item value="account" />
+      <item value="negate" />
+      <item value="placeholder" />
+      <item value="compress" />
+      <item value="COMMA" />
+      <item value="ordinal" />
+      <item value="Serious" />
+      <item value="serious" />
+      <item value="There is a cycle in the hierarchy" />
+      <item value="ambiguous" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="preoccupied" />
+      <item value="reason Phrase" />
+      <item value="stable" />
+      <item value="pattern" />
+      <item value="tail Num Rule" />
+      <item value="initiaterate" />
+      <item value="Demonstrate" />
+      <item value="apache" />
+      <item value="alibaba" />
+      <item value="test" />
+      <item value="deposit" />
+      <item value="Deposit" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
+        <entry key="PORTUGUESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="39e9db600cc2aa5d" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
+  </component>
+</application>
