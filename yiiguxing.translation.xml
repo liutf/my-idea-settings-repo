@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decimal" />
+      <item value="Big Decimal" />
       <item value="BINARY" />
       <item value="Statistical" />
       <item value="conjunction" />
@@ -49,13 +51,11 @@
       <item value="stable" />
       <item value="pattern" />
       <item value="tail Num Rule" />
-      <item value="initiaterate" />
-      <item value="Demonstrate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
