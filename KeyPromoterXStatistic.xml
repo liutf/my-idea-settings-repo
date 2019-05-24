@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>514</Count>
+          <Count>517</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -246,7 +246,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'RuoYiApplication'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SendMailServiceImplTest.sendOrderAlarm'">
@@ -279,6 +279,14 @@
           <ShortCut>'Alt+Shift+H'</ShortCut>
           <Description>Show History</Description>
           <Count>146</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RuoYiApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RuoYiApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'StatisticalServiceImplTest.assemblySettlementDataTest'">
